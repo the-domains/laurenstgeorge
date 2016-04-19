@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[LaurenStGeorge]]></title>
         <description><![CDATA[LaurenStGeorge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/laurenstgeorge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 16:18:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 17:37:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/laurenstgeorge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5050733-f316-4714-9e52-07f61afbc6aa.jpg">]]></description>
+            <link>https://thegrid.ai/laurenstgeorge/56c38a87-acf6-42a1-8fe7-a3ac87aa66b4/index.html</link>
+            <guid isPermaLink="false">56c38a87-acf6-42a1-8fe7-a3ac87aa66b4</guid>
+            <pubDate>Tue, 19 Apr 2016 17:36:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Minute Maid Fridge Fruit Commercial]]></title>
             <description><![CDATA[<article><h1>Minute Maid Fridge Fruit Commercial</h1><p>Uploaded by FRESH on 2016-04-19.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cc5ee84ea810315110dc41d2591905c5fcd8b21.jpg"></article>]]></description>
