@@ -1,7 +1,7 @@
 name: LaurenStGeorge
 favicon: null
-layout_spectrum: 0.061944092623889446
-typography_spectrum: 0.9302438199520111
+layout_spectrum: 0.73874
+typography_spectrum: 0.15202
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.1868364531546831
+    - '#ffffff'
+    - '#d32437'
+    - '#f48c32'
+    - '#30a792'
+    - '#532971'
+  brandStrength: 0.5
   lightness: 0.7758286632597446
   saturation: 0.0476158712990582
   rhythmicContrast: 0.5752665225882083
